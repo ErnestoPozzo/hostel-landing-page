@@ -43,3 +43,6 @@ next-env.d.ts
 # personal-workspace
 *.code-workspace
 
+# test
+/playground
+
