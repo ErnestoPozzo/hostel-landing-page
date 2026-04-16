@@ -15,6 +15,12 @@ This project is a **Next.js landing page** built as part of a portfolio showcasi
 
 ---
 
+## 🌐 Live Preview
+
+[![Live Preview](https://img.shields.io/badge/Preview-Hosted%20on%20Vercel-black?logo=vercel)](https://hostel-landing-page.vercel.app/)
+
+---
+
 ## 🚀 Features
 
 Clean and responsive design with TailwindCSS
